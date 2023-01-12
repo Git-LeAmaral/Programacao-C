@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637623272 source:c:\users\nggal\documents\programação em c\trabalhounip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+
